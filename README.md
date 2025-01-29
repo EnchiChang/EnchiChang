@@ -3,7 +3,9 @@
 # Basic Information
 * Undergraduate student of Statistics, Class of 2023  
 * Interested in machine learning
-* Programming with Python
+* Programming with Python & Matlab
+
+My blog: (https://enchichang.github.io/)
 
 ![HuiDBK's github activity graph](https://raw.githubusercontent.com/EnchiChang/EnchiChang/output/github-contribution-grid-snake.svg)
 
