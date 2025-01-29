@@ -5,7 +5,7 @@
 * Interested in machine learning
 * Programming with Python & Matlab
 
-My blog: (https://enchichang.github.io/)
+My blog: https://enchichang.github.io/
 
 ![HuiDBK's github activity graph](https://raw.githubusercontent.com/EnchiChang/EnchiChang/output/github-contribution-grid-snake.svg)
 
